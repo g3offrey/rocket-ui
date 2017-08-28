@@ -1,9 +1,13 @@
 {
     "name": "rocket-ui",
     "displayName": "rocket-ui",
+    "repository": {
+        "type": "git",
+        "url": "LeGfrey/rocket-ui"
+    },
     "icon": "icon.png",
     "description": "A blazing fast UI theme color made for VSCode to conquer stars, planet and space.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "legfrey",
     "engines": {
         "vscode": "^1.15.0"
