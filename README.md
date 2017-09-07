@@ -1,3 +1,5 @@
+[![Build Status](https://semaphoreci.com/api/v1/legfrey/rocket-ui/branches/master/badge.svg)](https://semaphoreci.com/legfrey/rocket-ui)
+
 # Rocket 🚀
 A blazing fast UI theme color made for VSCode to conquer stars, planet and space. 🚀 ✨ 🌏
 
