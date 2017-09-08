@@ -3,6 +3,10 @@ All notable changes to the "rocket-ui" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.9
+- Normalize "list" and "highlight" colors
+- Improve contrast of colors when we are selecting text
+
 ## 0.8
 - Improve support of "Operator Mono" (set italic style to keywords)
 
