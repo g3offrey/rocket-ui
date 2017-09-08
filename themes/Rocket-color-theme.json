@@ -341,6 +341,7 @@
     "editorHoverWidget.background": "#161C2B",
     "panel.background": "#161C2B",
     "statusBar.background": "#090C14",
-    "titleBar.activeBackground": "#14171f"
+    "titleBar.activeBackground": "#14171f",
+    "editor.selectionBackground": "#9482F069"
   }
 }
