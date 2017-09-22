@@ -3,7 +3,10 @@ All notable changes to the "rocket-ui" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## 1.0
+## 0.11
+- Add italic style to XML attributes
+
+## 0.10
 - Improve contrast of accent colors (make it more blueish and brighter)
 - Improve color normalization (less different colors)
 
