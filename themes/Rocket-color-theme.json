@@ -185,7 +185,8 @@
       "name": "HTML tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#FFD96C"
+        "foreground": "#FFD96C",
+        "fontStyle": "italic"
       }
     },
     {
